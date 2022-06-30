@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+#heading{
+    background-color: #006699;
+    color: #FFFFFF;
+    font-size: 30px;
+    padding: 15px;
+    margin: -10px;
+    width: 100%;
+}
+
+body{
+    text-align: center;
+    font-family: "Nunito", sans-serif;
+    overflow-x: hidden;
+}
+
+.imgItem{
+    width: 20%;
+    margin-left: -950px;
+    border-radius: 10px;
+}
+
+.divItem{
+    height: 364px;
+    background-color: #006699;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.sub-heading{
+    color: #FFF;
+}
+
+.outputGLens{
+    background: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 300px;
+}
+
+.outputMobileNet{
+    background: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 200px;
+}
+
+hr{
+    height:2px;
+    border-width:0;
+    color:#fff;
+    background-color:#FFF;
+}
+
+#headphonesDiv{
+    height: 250px;
+}
+
+#shoesDiv{
+    height: 275px;
+}
+
+#softtoyDiv{
+    height: 275px;
+}
+
+#bottleImg{
+    margin-left: -450px;
+}
+
+#resultBottle{
+    margin-left: 300px;
+}
+
+#resultBed{
+    margin-left: 300px;
+}
+
+#resultHeadphones{
+    margin-left: 300px;
+}
+
+#bedImg{
+    margin-left: -475px;
+}
+
+#headphonesImg{
+    margin-left: -400px;
+}
+
+#resultShoes{
+    margin-left: 300px;
+}
+
+#shoesImg{
+    margin-left: -480px;
+}
+
+#resultSoftToy{
+    margin-left: 300px;
+}
+
+#softToyImg{
+    margin-left: -380px;
+}
